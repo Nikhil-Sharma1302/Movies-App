@@ -1,22 +1,26 @@
-This is a simple and functional music player built using React.js that integrates with the Spotify API to fetch and display a list of songs based on user interest or search input. It offers an interactive experience where users can listen to songs, view composer details, and explore more about the track.
+This is a simple and clean movie search application built using React.js. It allows users to search for movies by name and fetches real-time results using a public movie API.
 
 🔧 Project Highlights:
-• Developed using React.js and Spotify API
+• Developed using React.js with hooks and functional components
 
-• Fetches and displays songs based on selected query or category
+• Integrates with a public Movie API (e.g., OMDb API) to fetch movie data
 
-• Users can:
+• Users can search for any movie, and the app displays key details like:
 
-     🎧 Play a song directly from the app
+       • Movie Title
 
-     🧑‍🎼 View composer/artist name
+       • Poster Image
 
-     📝 See additional song details (like album and release date)
+       • Release Year
 
-• Clean, responsive UI with engaging visuals
+       • Genre
 
-• Smooth user experience and API handling
+       • IMDb Rating
 
-• Hosted on Netlify for easy access
+• Responsive UI built for smooth use on both desktop and mobile
 
-🔗 Live Demo: nikhil-music-player.netlify.app
+• Clean layout with easy-to-read movie cards
+
+• Hosted on Netlify for quick and free access
+
+🔗 Live Demo: nikhil-movie-app.netlify.app
